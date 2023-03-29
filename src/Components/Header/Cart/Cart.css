@@ -1,0 +1,10 @@
+.cart{
+    background-color: #ebdbc4;
+    padding: 25px;
+    position: sticky;
+    top: 0;
+}
+
+.cart-heading{
+    text-align: center;
+}
