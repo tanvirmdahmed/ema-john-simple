@@ -8,3 +8,18 @@
 .cart-heading{
     text-align: center;
 }
+
+.btn-clear-cart{
+    display: flex;
+    width: 100%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    background: #ff3030;
+    color: white;
+    border-radius: 4px;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+}

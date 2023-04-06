@@ -8,3 +8,22 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+
+.proceed-link{
+    text-decoration: none;
+}
+
+.btn-proceed{
+    display: flex;
+    width: 100%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    background: #ff9801;
+    color: white;
+    border-radius: 4px;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+}
